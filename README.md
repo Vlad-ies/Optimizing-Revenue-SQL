@@ -2,7 +2,7 @@
 ## Project Description
 In the fast-paced world of online sports retail, staying competitive requires more than just a quality product selection. Our project embarks on a mission to empower an online sports retail company with data-driven insights, leveraging the power of SQL to optimize revenue generation.<br>
 The primary goal of this project is to harness the potential of the company's extensive product data to make informed decisions that maximize revenue and enhance customer experience. By delving into product performance, sales patterns, customer preferences, and market trends, we aim to uncover actionable insights that drive strategic growth.<br>
-Data description of 5 files can be founded here - [sql_notebook.ipynb](https://github.com/Vlad-ies/Optimizing-Revenue-SQL-and-Power-BI/blob/main/sql_notebook.ipynb) <br>
+Data description of 5 files can be found here - [sql_notebook.ipynb](https://github.com/Vlad-ies/Optimizing-Revenue-SQL-and-Power-BI/blob/main/sql_notebook.ipynb) <br>
 The data and tasks were taken from DataCamp. <br>
 ##  Data Analysis
 We employed our SQL skills to analyze product data for an online sports retail company. Our task involved working with numeric, string, and timestamp data, which encompassed pricing and revenue figures, ratings, reviews, descriptions, and website traffic statistics. <br>
